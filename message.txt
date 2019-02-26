@@ -1,0 +1,9 @@
+1 Zope ：应用服务器
+2 Plone ：内容管里系统
+3 Django :鼓励快速开发的Web应用框架
+4 Python Wikipedia Robot Framework：MediaWiki的机器人程序
+5 tornado ：非阻塞式服务器
+6 Reddit ：社交分享网站
+7 Dropbox ：文件分享服务
+8 Trac ：使用Python编写的BUG管里系统
+9 Blender ：以C与Python开发的开源3D绘图软件
